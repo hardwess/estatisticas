@@ -1,0 +1,15 @@
+Clima;Temperatura;Umidade;Vento;Jogar
+Ensolarado;Quente;Alta;Fraco;Não
+Ensolarado;Quente;Alta;Forte;Não
+Nublado;Quente;Alta;Fraco;Sim
+Chuvoso;Agradável;Alta;Fraco;Sim
+Chuvoso;Frio;Normal;Fraco;Sim
+Chuvoso;Frio;Normal;Forte;Não
+Nublado;Frio;Normal;Forte;Sim
+Ensolarado;Agradável;Alta;Fraco;Não
+Ensolarado;Frio;Normal;Fraco;Sim
+Chuvoso;Agradável;Normal;Fraco;Sim
+Ensolarado;Agradável;Normal;Forte;Sim
+Nublado;Agradável;Alta;Forte;Sim
+Nublado;Quente;Normal;Fraco;Sim
+Chuvoso;Agradável;Alta;Forte;Não
